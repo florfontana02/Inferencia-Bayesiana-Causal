@@ -1,6 +1,10 @@
 # IBC1.2024.2
 
 Este es el repositorio oficial de la materia `Inferencia Bayesiana Causal 1`, 2024, segundo semestre.
+<!--
+<tr>
+  <td width="50%" align="center"><img src="auxiliar/static/ecyt.jpeg" width="250"/></td>
+</tr>-->
 
 ## Materia `Inferencia Bayesiana Causal 1`. (IBC1.2024.2)
 
@@ -10,8 +14,8 @@ La materia `Inferencia Bayesiana Causal 1` se imparte como optativa de forma par
 
 <table>
   <tr>
-    <td width="50%" align="center"><img src="auxiliar/static/ecyt.jpeg" width="250"/></td>
-    <td width="50%" align="center"><img src="auxiliar/static/UNSAM_blanco.png" width="250"/></td>
+    <td width="50%" align="center"><img src="https://github.com/glandfried/images/blob/master/logos/ecyt.jpeg" width="250"/></td>
+    <td width="50%" align="center"><img src="https://github.com/glandfried/images/blob/master/logos/UNSAM_blanco.png" width="250"/></td>
   </tr>
   <tr>
     <td width="50%" align="center"><b>Campus Migueletes - EscuelaCyT</b></td>
@@ -23,8 +27,8 @@ La materia `Inferencia Bayesiana Causal 1` se imparte como optativa de forma par
 
 <table>
   <tr>
-    <td width="50%" align="center"><img src="auxiliar/static/fcen.png" width="250"/></td>
-    <td width="50%" align="center"><img src="auxiliar/static/UBA2_blanco.jpg" width="250"/></td>
+    <td width="50%" align="center"><img src="https://github.com/glandfried/images/blob/master/logos/fcen.png" width="250"/></td>
+    <td width="50%" align="center"><img src="https://github.com/glandfried/images/blob/master/logos/UBA2_blanco.jpg" width="250"/></td>
   </tr>
   <tr>
     <td width="50%" align="center"><b>Pabellón 0 + Inf - FacultadCEN</b></td>
