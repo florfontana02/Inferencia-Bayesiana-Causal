@@ -54,31 +54,31 @@ Seguir los siguientes pasos para crear el repositorio.
 
 1. Crear la carpeta donde vivirá su repositorio privado.
 
-    git init nombre_de_carpeta_a_crear
+        git init nombre_de_carpeta_a_crear
 
 2. Conectarlo con el repositorio oficial.
 
-    git remote add upstream git@github.com:MetodosBayesianos/IBC1.2024.2.git
+        git remote add upstream git@github.com:MetodosBayesianos/IBC1.2024.2.git
 
 3. Descargar el contenido del repositorio oficial.
 
-    git pull upstream main
+        git pull upstream main
 
 4. Crear un repositorio **privado vacío** en github.
 
-    # Entrar con sus usuario a github.com y crear un repositorio privado vacío.
+        # Entrar con sus usuario a github.com y crear un repositorio privado vacío.
 
 5. Agregar una referencia al repositorio privado recién creado.
 
-    git remote add origin git@github.com:usuario/nombre_del_repositorio.git
+        git remote add origin git@github.com:usuario/nombre_del_repositorio.git
 
 5. Subir los cambios locales a la plataforma.
 
-    git push origin main
+        git push origin main
 
 6. Dar acceso de edición a equipo docente.
 
-    # En Setting > Collaborators, agregar a @glandfried.
+        # En Setting > Collaborators, agregar a @glandfried.
 
 ## Objetivos.
 
